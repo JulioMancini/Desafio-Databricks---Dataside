@@ -55,7 +55,7 @@ Perguntas e Regras de Negócio
 ⦁	Pergunta: Para datas válidas, criar uma coluna de idade_real, que é a diferença do ano da data atual menos o ano da data de nascimento.
 ⦁	Regra: Calcule a idade baseada na data de nascimento e a data atual.
 
-**Datos para o teste**
+**Dados para o teste**
 
 
 select id
